@@ -1,0 +1,13 @@
+/* You can add global styles to this file, and also import other style files */
+.home,.about,.protfolio{
+background-color:#1abc9c;
+height: 100vh;
+}
+
+
+.line{
+    background-color: white;
+    width: 60px;
+    height: 3px;
+    display: inline-block;
+}
